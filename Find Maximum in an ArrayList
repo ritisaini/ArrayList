@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+import java.util.*;
 public class Maximum_in_an_Array {
     public static void main(String args[]){
         ArrayList<Integer>list = new ArrayList<>();
